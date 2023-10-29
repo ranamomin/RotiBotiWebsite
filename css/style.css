@@ -160,7 +160,10 @@ body {
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../img/bg-hero.jpg);
+    /* background: linear-gradient(rgb(30 43 76 / 90%), rgb(18 11 5 / 90%)),
+    url(../img/chickencurry-hero-bg.jpg); */
+    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)),
+        url(../img/chickencurry-hero-bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
