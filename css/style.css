@@ -236,7 +236,10 @@ body {
     color: var(--light) !important;
 }
 
-
+/*** Small Icons ***/
+.sm_icons{
+    max-width: 40px;
+}
 /*** Food Menu ***/
 .nav-pills .nav-item .active {
     border-bottom: 2px solid var(--primary);
