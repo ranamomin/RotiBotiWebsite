@@ -157,6 +157,9 @@ body {
     }
 }
 
+.dropdown-menu{
+    min-width: 100%;
+}
 
 /*** Hero Header ***/
 .hero-header {
